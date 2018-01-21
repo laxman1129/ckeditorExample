@@ -22,7 +22,8 @@
             "content/css/global.css"
         ],
         "scripts": [
-            "content/ckeditor/ckeditor.js"
+            // "content/ckeditor/ckeditor.js"
+            "../node_modules/ckeditor/ckeditor.js"
         ]
     }],
     "lint": [{
