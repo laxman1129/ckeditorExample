@@ -21,7 +21,9 @@
             "content/css/vendor.css",
             "content/css/global.css"
         ],
-        "scripts": []
+        "scripts": [
+            "content/ckeditor/ckeditor.js"
+        ]
     }],
     "lint": [{
             "project": "../../../tsconfig.json"
